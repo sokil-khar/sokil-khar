@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @volokhar918
-- 👀 I’m interested in web app, Dapp development and blockchain using Golang, React, Solidity, Python.
+- 👀 I’m interested in web app, Dapp development and blockchain using Golang, React,Vue, Solidity, Python.
 - 🌱 I’m currently learning the latest blockchain technologies to extend my experience/knowledge
 - 💞️ I’m looking to collaborate on the large-scale app development in blockchain industry.
 
