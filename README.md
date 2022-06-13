@@ -1,4 +1,4 @@
-# 💫About Me :
+# About Me :
 Hi, I am **Volodymyr Khar**, **Senior Software engineer**, **Tech lead engineer** who has more than 10 years of software engineering for web, mobile app development.
 
 Recent 3 years, I have been working as a **Smart contract engineer**, **web3 front end developer**, **React Native with web3 tech** engineer for the large NFT based
