@@ -2,11 +2,11 @@
 Hi, I am **Volodymyr Khar**, **Senior Software engineer**, **Tech lead engineer** who has more than 10 years of software engineering for web, mobile app development.
 
 Recent 3 years, I have been working as a **Smart contract engineer**, **web3 front end developer**, **React Native with web3 tech** engineer for the large NFT based
-startups like [**BattleyFly**](https://www.battlefly.game/)  for their web3 based front end development using the **React/Typescript**, **Solidity**.
+startups like [**BattleyFly**](https://www.battlefly.game/)  for their web3 based front end development using the **React/Vue/Typescript**, **Solidity**.
 
 And also helped to develop the crypto exchange mobile app for the [**Ecex Exchange**](https://ecex.exchange/)
 
-I am looking for another job position that require the blockchain engineer, front end developer and react native developer.
+I am looking for another job position that require the blockchain engineer, front end developer (react/vue) and react native developer, and Python/Go engineer
 
 # 💻Tech Stack
 
